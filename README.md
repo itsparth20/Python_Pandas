@@ -12,6 +12,8 @@ Task: Create a file input.csv using simple.csv file.
 | Initial | Number | Key | EntryLocation | ExitLocation | EntryDate | ExitDate |
 | ------- | ------ | --- | ------------- | ------------ | --------- | -------- |
 | ALS 	  | 2000   | ALS 2000| X 344E    | X 344E       | 3/24/2017 | 3/24/2017|
+| CNW 	|8646	|CNW 8646	|NZ021S	|NZ021 |	2/15/2017	| 2/16/2017 |
+
 
 
 input.csv file contains all days event data. So we want to create new output.csv file that is combination of same event data and edit Entry (date and location) and Exit (date and location).
