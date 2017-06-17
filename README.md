@@ -1,6 +1,6 @@
-Task: Create a file input.csv using simple.csv file.
+Task: Create a file output.csv using input.csv file.
 
-- input.csv file contains events data. 
+##### input.csv file contains events data. 
 
 1st colume contains Initial key name, 
 
